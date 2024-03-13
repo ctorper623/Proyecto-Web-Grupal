@@ -1,6 +1,9 @@
 <html>
+<head>
 <meta name="author" content="Carlos" />
+<link rel="stylesheet" type="text/css" href="estilos.css"/>
 <title> Samurais </title>
+</head>
 <body>
 
     <h1> SAMURAIS </h1>
@@ -11,8 +14,8 @@ altamente entrenados, expertos en el uso del arco y la espada, los samuráis era
 <p>Puede que los samuráis y la cultura samurái hayan sido excesivamente romantizados desde el siglo XVIII como epítome de la caballerosidad y el honor, pero hay muchos 
 ejemplos de que mostraban un gran valor y lealtad a sus amos, en particular, al llegar a cometer un suicidio ritual en caso de derrota o muerte de su señor. 
 Sin embargo, la guerra en el Japón medieval era tan sangrienta e inflexible como en cualquier otra región, y el dinero era a menudo el principal motivo para que 
-muchos samuráis participaran en la batalla. A partir del siglo XVII, y cuando ya no se les necesitaba con fines militares, los samuráis se convirtieron a menudo </p>
-en importantes maestros de moral y consejeros dentro de la comunidad.
+muchos samuráis participaran en la batalla. A partir del siglo XVII, y cuando ya no se les necesitaba con fines militares, los samuráis se convirtieron a menudo 
+en importantes maestros de moral y consejeros dentro de la comunidad. </p>
 
 <h2> Código bushido</h2>
 
@@ -27,31 +30,40 @@ en importantes maestros de moral y consejeros dentro de la comunidad.
 </ul>
 <table border = "1">
     <tr>
-        <th colspan="2">Armamento Samurai</th>
+        <th colspan="3">Armamento Samurai</th>
     </tr>
     <tr>
         <td>KATANA</td>
-        <td rowspan="3" >es una espada de hoja curvada. Es la que todo el mundo conoce y asocia a estos guerreros clásicos. Muchos la consideran el alma del samurái, su mejor amiga. Es un sable que ronda un metro de longitud y que ha ganado tanta fama que algunas son tan célebres como Masamune.</td>
-        <td><img src="Masamune" width="10" height="10" alt="Imagen de la katana Masamune"></td>
+        <td  >es una espada de hoja curvada. Es la que todo el mundo conoce y asocia a estos guerreros clásicos. Muchos la consideran el alma del samurái, su mejor amiga. Es un sable que ronda un metro de longitud y que ha ganado tanta fama que algunas son tan célebres como Masamune.</td>
+        <td><img src="Masamune.jpeg" width="200" height="200" alt="Imagen de la katana Masamune"></td>
     </tr>
     <tr>
         <td>YUMI</td>
-        <td rowspan="3" >antaño, antes incluso del uso de la katana, estos guerreros demostraron ser muy diestros con el uso del arco. Posteriormente cayó en desuso, pero en el siglo XII era común que utilizaran esta arma con gran tiento.</td>
-        <td>KATANA</td>
+        <td  >antaño, antes incluso del uso de la katana, estos guerreros demostraron ser muy diestros con el uso del arco. Posteriormente cayó en desuso, pero en el siglo XII era común que utilizaran esta arma con gran tiento.</td>
+        <td><img src="yumi.png" width="200" height="200" alt="Imagen de una yumi"></td>
     </tr>
     <tr>
         <td>NAGINATA</td>
-        <td rowspan="3"> arma de larga asta que era aprovechada por los guerreros por su enorme alcance. Estaba considerada como una de las más poderosas y fue muy popular durante la época feudal del Japón antiguo.</td>
-        <td>KATANA</td>
+        <td > arma de larga asta que era aprovechada por los guerreros por su enorme alcance. Estaba considerada como una de las más poderosas y fue muy popular durante la época feudal del Japón antiguo.</td>
+        <td><img src="naginata.jpeg" width="200" height="200" alt="Imagen de una naginata"></td>
     </tr>
     <tr>
         <td>YARI</td>
-        <td rowspan="3">en el Japón feudal tenía gran presencia el arte de batallar a caballo. Ahí fue cuando el yari, que es la lanza tradicional nipona, también ganó presencia. Sobre todo se usaba para repeler los ataques mongoles</td>
-        <td>KATANA</td>
+        <td >en el Japón feudal tenía gran presencia el arte de batallar a caballo. Ahí fue cuando el yari, que es la lanza tradicional nipona, también ganó presencia. Sobre todo se usaba para repeler los ataques mongoles</td>
+        <td><img src="yari.jpeg" width="200" height="200" alt="Imagen de una yari"></td>
     </tr>
-
-
-
 </table>
+Si deseas conocer en mas profundo a estos guerreros te dejo un documental muy completo acerca de su historia:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hAPIXJLE_hA?si=uydZS30PDu_0Y-mT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Si deseas leer informacion documentada te dejo este enlace:
+Si deseas conocer otros guerreros de nuestra historia, aqui tienes una serie de enlaces de curiosidad:
+<A HREF="https://www.worldhistory.org/Samurai/"> Actividad 2.2 </A>
+<ul type="disc">
+   <li> <A HREF="vikingos.html"> Actividad 2.1 </A></li>
+    <br>
+   <li> <A HREF="espartanos.html"> Actividad 2.2 </A> </li>
+    <br>
+    <li><A HREF="persas.html">Actividad 2.3 </A></li>
+    </ul>
 </body>
 </html>
