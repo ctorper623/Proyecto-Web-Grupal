@@ -1,8 +1,23 @@
 <html>
 <meta name="author" content="Carlos" />
-<title> </title>
+<title> Samurais </title>
 <body>
-<h4> SAMURAIS </h4>
+<h1> SAMURAIS </h1>
+<h2> Código bushido</h2>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+<table border = "1">
+    <tr>
+        <th colspan="2">Armamento Samurai</th>
+    </tr>
 
+
+
+</table>
 </body>
 </html>
