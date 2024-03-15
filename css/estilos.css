@@ -1,0 +1,25 @@
+body {
+    background-color: #FFFFAA;
+}
+h1 {
+color: green;
+font-family: Arial, Helvetica, sans-serif;
+size: 30px;
+font-weight: bold;
+text-decoration: underline;
+text-align: center;
+}
+h2{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    size: 20px;
+    text-align: right;
+    text-decoration: overline;
+}
+p{
+background-color: #AAAAFF;
+color: #0000AA;
+size: 12px;
+text-align: right;
+}
