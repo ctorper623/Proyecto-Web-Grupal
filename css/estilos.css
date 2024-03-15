@@ -1,10 +1,13 @@
 body {
-    background-color: #FFFFAA;
+    background-color: #a096f8;
+    margin-top: 2cm;
+    margin-bottom: 3cm;
+    margin-left: 3cm;
+    margin-right: 3cm;
 }
 h1 {
-color: green;
-font-family: Arial, Helvetica, sans-serif;
-size: 30px;
+color: yellow;
+font-family: 'Times New Roman', Times, serif;
 font-weight: bold;
 text-decoration: underline;
 text-align: center;
@@ -12,14 +15,29 @@ text-align: center;
 h2{
     color: blue;
     font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    size: 20px;
-    text-align: right;
+    font-weight: bold;
+    text-align: left;
     text-decoration: overline;
 }
 p{
 background-color: #AAAAFF;
-color: #0000AA;
-size: 12px;
-text-align: right;
+color: black;
+text-align: justify;
+}
+h3{
+font-style: italic;
+color: #00007a;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}   
+table{
+width: 30cm;
+border: 2px solid #ff0000; 
+text-align: center;
+border-spacing: 0cap;  
+}
+th{
+    background-color: #AAAAFF;
+}
+h4 {
+    font-weight: bold;
 }
